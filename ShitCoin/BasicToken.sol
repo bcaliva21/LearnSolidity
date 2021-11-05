@@ -5,7 +5,9 @@ pragma solidity ^0.8.7;
 // I have made small modifications to this code to
 // 1. Try to follow naming conventions as I have found in the docs
 // 2. Replaced depreciated modifiers
-// 2a. I have replace constant with view
+    // 2a. I haved replace constant with view/pure
+    // view/constant/pure
+// https://ethereum.stackexchange.com/a/28903/16301
 //---------------END_RANT-----------------------------------------|
 
 //--------------HELPFUL_LINKS_&_INFO------------------------------|
